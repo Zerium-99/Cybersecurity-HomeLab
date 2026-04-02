@@ -14,9 +14,9 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 
 # 📦 Virtual Machines
 - Attacker Machine:
-  - Operating System: Parrot OS
+  - Operating System: [Kali Linux](https://kali.org)
   - Purpose: Used to perform penetration testing and attacks
-  - Base memory: 8653 MB
+  - Base memory: ...
 
 # 📝 Guide
 
@@ -25,7 +25,4 @@ In this guide, I will walk you through the steps I took to build my own home lab
 ### VirtualBox Installation
 
 To start, let's install a software that lets us create virtual machines, I chose VirtualBox, because it's simple to use and user-friendly.
-
-I installed it on Arch Linux, running the following command: 
-
-`sudo pacman -S virtualbox`. The installation procedure is similar on Windows.
+I installed it on Windows 11, following the step-by step guide on the official VirtualBox website: https://www.virtualbox.org/

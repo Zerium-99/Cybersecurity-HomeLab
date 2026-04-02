@@ -28,3 +28,5 @@ To start, let's install a software that lets us create virtual machines, I chose
 I installed it on Windows 11, following the step-by step guide on the official VirtualBox website: https://www.virtualbox.org/
 
 ### 2. Choosing the Distro
+
+I chose Kali Linux as my distro for my HomeLab. There are many other ones, such as [Parrot OS](https://parrotsec.org), [Blackarch](https://blackarch.org), [ArchStrike](https://archstrike.org) and even more. Kali Linux is Debian-Based, which makes it stable, well-maintaned and reliable.

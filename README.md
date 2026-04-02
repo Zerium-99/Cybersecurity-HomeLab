@@ -16,7 +16,9 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 - Attacker Machine:
   - Operating System: [Kali Linux](https://kali.org)
   - Purpose: Used to perform penetration testing and attacks
-  - Base memory: ...
+  - RAM: 8 GB (8192 MB)
+  - CPU Processors: 5
+  - Attached to: Internal Network
 
 # 📝 Guide
 

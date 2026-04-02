@@ -44,7 +44,7 @@ After importing, the VM was configured with two network adapters:
 ### 4. Network Isolation
 
 For a safe testing environment, it's fundamental to isolate our VMs, so that all the virtual machines won't be able to communicate to our network.
-First, I chose my VM I wanted to isolate, then  I cliked on "Settings" and I went to the "Network" Section.
+First, I chose the VM I wanted to isolate, then I clicked on "Settings" and I went to the "Network" Section.
 
 <img width="951" height="595" alt="image" src="https://github.com/user-attachments/assets/8d894246-8f35-4105-88bc-3c14bedf915c" />
 

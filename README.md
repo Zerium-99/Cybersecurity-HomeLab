@@ -33,6 +33,14 @@ I installed it on Windows 11, following the step-by step guide on the official V
 
 I chose Kali Linux as my distro for my HomeLab. There are many other ones, such as [Parrot OS](https://parrotsec.org), [Blackarch](https://blackarch.org), [ArchStrike](https://archstrike.org) and even more. Kali Linux is Debian-Based, which makes it stable, well-maintaned and reliable.
 
-### 3. Creating the VM
+### 3. Importing the Kali Linux Virtual Machine
+
+The Kali Linux virtual machine was deployed by importing an existing `.vbox` configuration file into VirtualBox. This method ensures a consistent and reproducible environment without requiring a full manual installation.
+
+After importing, the VM was configured with two network adapters:
+- NAT adapter for internet access
+- Internal Network (intnet) adapter for communication within the lab environment
+
+### 4. Network Isolation
 
 ..

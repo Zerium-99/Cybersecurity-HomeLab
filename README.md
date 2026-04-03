@@ -63,3 +63,6 @@ After executing the command, I created a DHCP server associated with the interna
 
 The network was defined with a subnet mask of 255.255.255.0, and the `--enable` flag was used to activate the DHCP service.
 
+### 6. Downloading Vulnerable Machines
+
+..

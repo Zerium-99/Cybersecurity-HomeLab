@@ -15,7 +15,7 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 # 📦 Virtual Machines
 - Attacker Machine:
   - Operating System: [Parrot OS](https://parrotsec.org) 
-  - Purpose:v Used to perform penetration testing and attacks
+  - Purpose: Used to perform penetration testing and attacks
   - RAM: 8 GB (8192 MB)
   - CPU Processors: 5
   - Attached to: Internal Network(for isolation)

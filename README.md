@@ -12,6 +12,7 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 - Hypervisor: [VirtualBox](https://www.virtualbox.org/)
 - Vulnerable machines: [VulnHub](https://vulnhub.com)
 - NetworkChuck: https://www.youtube.com/watch?v=mvsiuLzpx2E&t=254s
+- Operating System: [Parrot OS](https://parrotsec.org)
 
 # 📦 Virtual Machines
 - Attacker Machine:

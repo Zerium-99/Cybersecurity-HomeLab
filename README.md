@@ -16,6 +16,11 @@ Here are the resources I used to make my own cybersecurity homelab:
 - NetworkChuck: https://www.youtube.com/watch?v=mvsiuLzpx2E&t=254s
 - Operating System: [Parrot OS](https://parrotsec.org)
 
+# Network Diagram
+
+<img width="621" height="409" alt="network diagram" src="https://github.com/user-attachments/assets/1e422f34-f1a7-4b1f-936d-3d320a8ea826" />
+
+
 # 📦 Virtual Machines
 - Attacker Machine:
   - Operating System: [Parrot OS](https://parrotsec.org) 

@@ -82,6 +82,7 @@ To start exploiting systems, we need vulnerable virtual machines to attack. I in
 - Add SIEM
 - Add Windows Target
 - Add Windows Active Directory lab
+- Add PfSense
 
 ## 🔍 Find me on
 

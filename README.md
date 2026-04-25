@@ -89,3 +89,5 @@ To start exploiting systems, we need vulnerable virtual machines to attack. I in
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Zerium.px)
 
 ![Discord](https://img.shields.io/badge/Discord-zerium.px-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Zerium_py-212C42?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Zerium_py)
